@@ -1,13 +1,13 @@
 
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éë€˜ÿÿÿÿÿ8–š’©ä.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(È¬ğˆÿÿÿÿÿ8Á¤®©ä.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ú–¯øÿÿÿÿÿ8Ğì‘©ä.
-N
-java:S1602,",Remove useless curly braces around statement(Å’¾üşÿÿÿÿ8ÒÇ¿©ä.
 I
 java:S1602",Remove useless curly braces around statement(è¶…Ğ8Ğì‘©ä.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊŞ¿Ãøÿÿÿÿ8Œù“©ä.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ÒÑ«ùÿÿÿÿ8†Œ¨å.
 I
 java:S1602",Remove useless curly braces around statement(è¶…Ğ8–š’©ä.
-\
-java:S1128":Remove this unused import 'java.util.concurrent.Executor'.(÷ı¶Œúÿÿÿÿ8ñƒ¨©ä.
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(È¬ğˆÿÿÿÿÿ8Á¤®©ä.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éë€˜ÿÿÿÿÿ8–š’©ä.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ŸÁùÿÿÿÿ8†Œ¨å.
+N
+java:S16022",Remove useless curly braces around statement(Å’¾üşÿÿÿÿ8ÒÇ¿©ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊŞ¿Ãøÿÿÿÿ8Œù“©ä.
